@@ -1,5 +1,4 @@
-def fizzbuzz(int)
-  if int % 3 == 0 
+def fizzbuzz(3)
     puts "Fizz"
   end
 elsif int 
