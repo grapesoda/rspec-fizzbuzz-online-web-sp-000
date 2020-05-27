@@ -6,4 +6,5 @@ def fizzbuzz(3)
   puts "Buzz"
 end
 elsif int % 3 == 0 && int % 5 == 0
+puts ""
 end
