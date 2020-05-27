@@ -5,5 +5,5 @@ def fizzbuzz(3)
   elsif int % 5 == 0 
   puts "Buzz"
 end
-elsif int % 3 
+elsif int % 3 == 0
 end
